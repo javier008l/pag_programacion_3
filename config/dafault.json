@@ -1,0 +1,11 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"practicas-proglll.o2usj.mongodb.net",
+            "user":"rest_api",
+            "password":"nQW2MpC48IMLrF2v",
+            "dbname":"rest_api_db"
+
+        }
+    }
+}

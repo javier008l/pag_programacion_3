@@ -1,0 +1,19 @@
+{
+  "name": "academic-api",
+  "version": "1.0.0",
+  "description": "primera prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "rest api"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Javier Arango Aristizabal",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "mongoose": "^6.5.2"
+  }
+}
